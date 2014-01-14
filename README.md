@@ -12,7 +12,7 @@ Directions
 		
 4. Clone the repository
 
-		git clone http://
+		git clone https://github.com/cl9p/docker-centos-mysql-drupal.git
 		
 5. Run the Dockerfile
 
